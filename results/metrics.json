@@ -1,0 +1,8 @@
+{
+  "project": "Paired Multi-Omics Latent Alignment",
+  "test_pair_retrieval_accuracy": 0.9866666666666667,
+  "chance_accuracy": 0.006666666666666667,
+  "training_pairs": 500,
+  "test_pairs": 150,
+  "method": "Regularized linear CCA; held-out pair matching"
+}
